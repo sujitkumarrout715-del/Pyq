@@ -1,0 +1,6 @@
+{
+  "name": "Class 10 PYQ Master",
+  "description": "A study-focused previous year papers app for CBSE Class 10 students with solutions and offline access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
